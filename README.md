@@ -1,6 +1,5 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="http://optimizer.math.sharif.edu/wp-content/uploads/2021/02/optimizer.png" alt="Optimizer logo"></a>
 </p>
 <h3 align="center">نام تیم</h3>
 
@@ -30,7 +29,7 @@
 - [قدردانی](#acknowledgments)
 
 ## 🧐 صورت‌بندی سوال <a name = "problem_statement"></a>
-$\sum_{i=1}^{10}t_i$
+<a href="https://ibb.co/BCBMdr5"><img src="https://i.ibb.co/9rW5zVk/2.png" alt="2" border="0"></a>
 ## 💡 الگوریتم بهینه‌سازی <a name = "idea"></a>
 روش حل عددی سوال مدل‌سازی شده در قسمت قبل را توضیح و یا به منبعی که از آن استفاده کرده‌اید ارجاع دهید
 
